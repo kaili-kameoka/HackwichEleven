@@ -13,6 +13,7 @@
 		B6424BCE27F2CCD000C8A4EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6424BCC27F2CCD000C8A4EA /* Main.storyboard */; };
 		B6424BD027F2CCD100C8A4EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6424BCF27F2CCD100C8A4EA /* Assets.xcassets */; };
 		B6424BD327F2CCD100C8A4EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6424BD127F2CCD100C8A4EA /* LaunchScreen.storyboard */; };
+		B6424BDB27F2D1DF00C8A4EA /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6424BDA27F2D1DF00C8A4EA /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B6424BCF27F2CCD100C8A4EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6424BD227F2CCD100C8A4EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6424BD427F2CCD100C8A4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6424BDA27F2D1DF00C8A4EA /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B6424BC627F2CCD000C8A4EA /* AppDelegate.swift */,
 				B6424BC827F2CCD000C8A4EA /* SceneDelegate.swift */,
 				B6424BCA27F2CCD000C8A4EA /* ViewController.swift */,
+				B6424BDA27F2D1DF00C8A4EA /* Restaurant.swift */,
 				B6424BCC27F2CCD000C8A4EA /* Main.storyboard */,
 				B6424BCF27F2CCD100C8A4EA /* Assets.xcassets */,
 				B6424BD127F2CCD100C8A4EA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6424BDB27F2D1DF00C8A4EA /* Restaurant.swift in Sources */,
 				B6424BCB27F2CCD000C8A4EA /* ViewController.swift in Sources */,
 				B6424BC727F2CCD000C8A4EA /* AppDelegate.swift in Sources */,
 				B6424BC927F2CCD000C8A4EA /* SceneDelegate.swift in Sources */,
